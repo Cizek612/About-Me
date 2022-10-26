@@ -10,4 +10,4 @@
 
 📫 How to reach me? Skies#1815 on Discord!
 
-[](https://komarev.com/ghpvc/?username=sefovski)
+https://komarev.com/ghpvc/?username=sefovski
