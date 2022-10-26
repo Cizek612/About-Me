@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sefovski</h1>
+<h3 align="center">14 Year Old From Serbia, Owner @ Loop Studios</h3>
 
-<!--
-**Sefovski/Sefovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working at Loop Studios & IceCube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Java
+
+💬 Ask me about Minecraft, Java
+
+📫 How to reach me? Skies#1815 on Discord!
+
+[](https://komarev.com/ghpvc/?username=sefovski)
