@@ -8,6 +8,6 @@
 
 💬 Ask me about Minecraft, Java
 
-📫 How to reach me? Skies#1815 on Discord!
+📫 How to reach me? Sefovski#1815 on Discord!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefovski&label=Profile%20views&color=0e75b6&style=flat" alt="sefovski" /> </p>
