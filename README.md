@@ -8,7 +8,7 @@
 
 📫 How to reach me? @sefovski on Discord, or email me at lukasefovski1@gmail.com!
 
-🌌 15$/hour for Java work, preferably Spigot Plugins or Backend Development
+🌌 20$/hour for Java work, preferably Spigot Plugins or Backend Development
 
 🧑‍💻 Experienced in JSON, YML, Object Oriented Programming 
 
