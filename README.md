@@ -6,7 +6,7 @@
 
 💬 Ask me about Java
 
-📫 How to reach me? @sefovski on Discord, or email me at sefovski@recondev.net!
+📫 How to reach me? ```sefovski``` on Discord, or email me at sefovski@recondev.net!
 
 🌌 20$/hour for Java work, preferably Spigot Plugins or Backend Development
 
