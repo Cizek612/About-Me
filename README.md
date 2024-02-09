@@ -4,7 +4,7 @@
 
 🔭 I’m currently working at Recon Development, SkyBlur & CoinCraze
 
-💬 Ask me about Java, 
+💬 Ask me about Java & OOP
 
 📫 How to reach me? ```cizek612``` on Discord, or email me at cizekluka@gmail.com!
 
