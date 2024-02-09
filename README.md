@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sefovski</h1>
+<h1 align="center">Hi 👋, I'm Cizek612</h1>
 <h3 align="center">Owner @ Recon Development</h3>
 
 
-🔭 I’m currently working at Recon Development, Purple Studiod & PandaBlock
+🔭 I’m currently working at Recon Development, SkyBlur & CoinCraze
 
-💬 Ask me about Java
+💬 Ask me about Java, 
 
-📫 How to reach me? ```sefovski``` on Discord, or email me at sefovski@recondev.net!
+📫 How to reach me? ```cizek612``` on Discord, or email me at cizekluka@gmail.com!
 
-🌌 20$/hour for Java work, preferably Spigot Plugins or Backend Development
+🌌 20$/hour for Java work, preferably Backend Development
 
-🧑‍💻 Experienced in JSON, YML, Object Oriented Programming 
+🧑‍💻 Experienced in Object Oriented Programming 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefovski&label=Profile%20views&color=0e75b6&style=flat" alt="sefovski" /> </p>
