@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cizek612</h1>
-<h3 align="center">Head @ Ancestral Development</h3>
+<h3 align="center">Head @ Ancestral Development (Non-Profit) </h3>
 
 
 🔭 I’m currently working at Ancestral Development, SkyBlur Games
