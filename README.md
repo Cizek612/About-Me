@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cizek612</h1>
-<h3 align="center">Owner @ Recon Development</h3>
+<h3 align="center">Head @ Ancestral Development</h3>
 
 
-🔭 I’m currently working at Recon Development, SkyBlur & CoinCraze
+🔭 I’m currently working at Ancestral Development, SkyBlur Games
 
 💬 Ask me about Java & OOP
 
 📫 How to reach me? ```cizek612``` on Discord, or email me at cizekluka@gmail.com!
 
-🌌 20$/hour for Java work, preferably Backend Development
+🌌 In need of Java development services? Reach out!
 
 🧑‍💻 Experienced in Object Oriented Programming 
 
